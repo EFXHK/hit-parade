@@ -1,12 +1,15 @@
 body {
   font-family: 'Nunito', sans-serif;
+  background: yellow;
 }
 
 h1 {
   font-family: 'Monoton', cursive;
-  font-size: 4em;
+  font-size: 3em;
   margin: 0;
   text-align: center;
+  color: blue
+  
 }
 
 h2 {
@@ -47,6 +50,7 @@ select {
 
 .playing {
   opacity: 0.8
+  
 }
 
 .song {
